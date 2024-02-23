@@ -1,10 +1,10 @@
 terraform {
   required_version = ">= 1.5.7"
   backend "azurerm" {
-    resource_group_name  = "Vinayak_rg"
-    storage_account_name = "githubactionterraform123"
+    resource_group_name  = "vinayak_RG"
+    storage_account_name = "testterraform10"
     container_name       = "terraform"
-    key                  = "CfZgLmhxmuVzyL1A6iFEdBU0xHlDzjpefdJ+z+nhf9aystBR7816lxSFrax4GB9bEESukhULGAq4+AStGoFt7A=="
+    key                  = "8GDhWZrtvWhUycaq1FdNZ5qNDvPn+xwo+Jg2ybzHXp/HeKvQwjfjwk3/blmYRq+AumGsut/qdn3Z+ASti6eJlg=="
   }
 }
  
