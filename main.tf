@@ -4,7 +4,7 @@ terraform {
     resource_group_name  = "vinayak_RG"
     storage_account_name = "testterraform10"
     container_name       = "terraform"
-    key                  = "8GDhWZrtvWhUycaq1FdNZ5qNDvPn+xwo+Jg2ybzHXp/HeKvQwjfjwk3/blmYRq+AumGsut/qdn3Z+ASti6eJlg=="
+    key                  = "BM1eVaF8/fw1ynxCJ/anqEuOMtCN2SHljaMf+ZoVcUUSfItJKg5divt/8SAnvvz0pOj7ZBi6pL7D+ASt24od1Q=="
   }
 }
  
